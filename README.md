@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Microservices, AWS**
 
-💬 Ask me about **Spring Boot, Hibernate, REST API... or anything [here](https://github.com/realarnab)**
+💬 Ask me about **Spring Boot, Hibernate, REST API... or anything [here](https://github.com/realarnab/reaarnab/issues)**
 
 
  </div>
