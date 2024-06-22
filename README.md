@@ -1,4 +1,24 @@
-## Hi there 👋
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arnab+Mondal!;" />
+</h1>
+
+<h3 align="center">A passionate Software Engineer from India </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a company**
+ 
+ 🌱 I’m currently learning **Microservices, AWS**
+
+💬 Ask me about **Spring Boot, Hibernate, REST API... or anything [here](https://github.com/realarnab)**
+
+
+ </div>
 
 <!--
 **realarnab/realarnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
