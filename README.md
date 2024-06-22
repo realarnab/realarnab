@@ -29,6 +29,19 @@
   </a>
 </div>
 
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,springboot,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=aws,mysql,hibernate,mongodb" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
 <!--
 **realarnab/realarnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
