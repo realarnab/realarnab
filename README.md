@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Microservices, AWS**
 
-💬 Ask me about **Spring Boot, Hibernate, REST API... or anything [here](https://github.com/realarnab/reaarnab/issues)**
+💬 Ask me about **Spring Boot, Hibernate, REST API**
 
 
  </div>
@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,mysql,hibernate,mongodb,c,arduino,postman,eclipse,idea,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,hibernate,mongodb,c,arduino,postman,eclipse,idea,cpp,maven" /><br>
 </div>
 
 <br/>
