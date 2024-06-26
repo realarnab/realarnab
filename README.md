@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,mysql,hibernate,mongodb,c,arduino,postman,eclipse,idea,cpp,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,hibernate,mongodb,c,arduino,postman,eclipse,python,idea,cpp,maven" /><br>
 </div>
 
 <br/>
