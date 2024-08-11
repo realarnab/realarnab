@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a banking application**
+ 🔭 I’m currently working on **a Bus Ticket reservation application**
  
  🌱 I’m currently learning **Microservices, AWS**
 
