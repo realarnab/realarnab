@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **a Bus Ticket reservation application**
  
- 🌱 I’m currently learning **Microservices, AWS**
+ 🌱 I’m currently learning **Ruby, Ruby on Rails**
 
 💬 Ask me about **Spring Boot, Hibernate, REST API**
 
