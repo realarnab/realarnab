@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Schedule Tweet Sending Application**
+ 🔭 I’m currently working on **a E-Notes Application**
  
  🌱 I’m currently learning **Ruby, Ruby on Rails**
 
