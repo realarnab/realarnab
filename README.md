@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **a E-Notes Application**
  
- 🌱 I’m currently learning **Ruby, Ruby on Rails**
+ 🌱 I’m currently learning **AWS**
 
 💬 Ask me about **Spring Boot, Hibernate, REST API**
 
@@ -24,7 +24,7 @@
   <a href="mailto:arnabmondal604@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/arnab-mondal-6530aa218" target="_blank">
+  <a href="https://linkedin.com/in/realarnab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
