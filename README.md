@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a PDF Editor Application**
+ 🔭 I’m currently working on **a SaaS application**
  
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **Agentic AI**
 
-💬 Ask me about **Spring Boot, Hibernate, REST API**
+💬 Ask me about **Spring Boot, Hibernate, REST API, Docker, Kubernetes**
 
 
  </div>
@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,vscode,github,git,python,ruby" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,mysql,hibernate,mongodb,c,arduino,postman,eclipse,idea,maven,redis,rails,kafka,docker,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,hibernate,mongodb,c,arduino,postman,eclipse,idea,maven,redis,rails,kafka,docker,kubernetes,helm" /><br>
 </div>
 
 <br/>
